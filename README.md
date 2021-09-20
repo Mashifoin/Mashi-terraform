@@ -1,3 +1,3 @@
 # Mashi-terraform
 
-descript
+description
